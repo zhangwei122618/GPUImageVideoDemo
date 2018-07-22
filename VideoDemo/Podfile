@@ -1,0 +1,8 @@
+
+target 'VideoDemo' do 
+
+pod 'AFNetworking'
+pod 'Masonry'
+pod 'GPUImage'
+
+end

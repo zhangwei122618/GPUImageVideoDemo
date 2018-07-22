@@ -1,0 +1,19 @@
+//
+//  VideoDemo.pch
+//  VideoDemo
+//
+//  Created by 张威 on 2018/7/22.
+//  Copyright © 2018年 张威. All rights reserved.
+//
+
+#ifndef VideoDemo_pch
+#define VideoDemo_pch
+
+#import "AFNetworking.h"
+#import "Masonry.h"
+#import "GPUImage.h"
+#import "Config.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* VideoDemo_pch */
